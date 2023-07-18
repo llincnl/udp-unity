@@ -1,0 +1,50 @@
+# OS auto-generated files
+.DS_Store
+*.db
+
+# Unity3D auto-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Uu]nityGenerated/
+/[Ll]ocal[Cc]ache/
+
+# Exclude rider idea data
+.idea
+.vscode
+
+# Auto-generated Visual Studio or MonoDevelop solution and project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.apk
+*.cd
+*.svd
+*.pdb
+*.opendb
+*.log
+.consulo/
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.exe
+*.unitypackage
+
+# Ignore temporaries from GameCI
+/[Aa]rtifacts/
+/[Cc]odeCoverage/
