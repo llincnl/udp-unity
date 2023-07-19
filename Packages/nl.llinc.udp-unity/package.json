@@ -1,0 +1,11 @@
+{
+  "name": "nl.llinc.udp-unity",
+  "displayName": "UDP Unity",
+  "description": "Cross platform UDP sockets for Unity",
+  "version": "0.0.1",
+  "author": {
+    "name" : "Adel Qaddoumi",
+    "email" : "adel.qadd@gmail.com",
+    "url" : "https://github.com/adelqadd"
+  }
+}
